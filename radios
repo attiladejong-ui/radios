@@ -1,6 +1,221 @@
 
 #EXTM3U
 
+Rendben, kiveszem a 24/7 sorozatokat és a FOX SPORTS-t, **csak rádiók maradnak** – ország + stílus szerint csoportosítva.
+Másold be egy új fájlba, pl. `world_radio_only.m3u`:
+
+```m3u
+#EXTM3U
+
+# --- AMBIENT / CHILL, LOUNGE ---
+
+# Ambient Sleeping Pill [Opt-1]
+#EXTINF:-1 tvg-id="" tvg-name="Ambient Sleeping Pill (Opt-1)" tvg-logo="https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png" group-title="USA - AMBIENT / CHILL",Ambient Sleeping Pill (Opt-1)
+http://cord-cutter.net:8080/Laurie278/5tX1uO7XB7/14823
+
+# Ambient Sleeping Pill [Opt-2]
+#EXTINF:-1 tvg-id="" tvg-name="Ambient Sleeping Pill (Opt-2)" tvg-logo="https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png" group-title="USA - AMBIENT / CHILL",Ambient Sleeping Pill (Opt-2)
+http://cord-cutter.net:8080/Laurie278/5tX1uO7XB7/14824
+
+# Audio Noir Radio – chill / downtempo
+#EXTINF:-1 tvg-id="" tvg-name="Audio Noir Radio" tvg-logo="https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png" group-title="Online - CHILL / DOWNTEMPO",Audio Noir Radio
+http://cord-cutter.net:8080/Laurie278/5tX1uO7XB7/14826
+
+# Jamendo Lounge – lounge / chill
+#EXTINF:-1 tvg-id="" tvg-name="Jamendo Lounge" tvg-logo="https://seekvectorlogo.net/wp-content/uploads/2018/07/bbc-radio-1-vector-logo.png" group-title="Online - LOUNGE / CHILL",Jamendo Lounge
+http://cord-cutter.net:8080/Laurie278/5tX1uO7XB7/14389
+
+# Ambient Sleeping Pill (duplikált stream 14657)
+#EXTINF:-1 tvg-id="" tvg-name="Ambient Sleeping Pill" tvg-logo="https://pngimg.com/uploads/radio/radio_PNG19293.png" group-title="USA - AMBIENT / CHILL",Ambient Sleeping Pill
+http://cord-cutter.net:8080/Laurie278/5tX1uO7XB7/14657
+
+# Ambient Sleeping Pill [Opt-2] (duplikált stream 14658)
+#EXTINF:-1 tvg-id="" tvg-name="Ambient Sleeping Pill (Opt-2)" tvg-logo="https://pngimg.com/uploads/radio/radio_PNG19293.png" group-title="USA - AMBIENT / CHILL",Ambient Sleeping Pill (Opt-2)
+http://cord-cutter.net:8080/Laurie278/5tX1uO7XB7/14658
+
+
+# --- KLASSZIKUS / KOMOLYZENE ---
+
+# (ILR) Classic FM – UK klasszikus
+#EXTINF:-1 tvg-id="" tvg-name="(ILR) Classic FM" tvg-logo="https://seekvectorlogo.net/wp-content/uploads/2018/07/bbc-radio-1-vector-logo.png" group-title="UK - KLASSZIKUS / KOMOLYZENE",(ILR) Classic FM
+http://cord-cutter.net:8080/Laurie278/5tX1uO7XB7/14388
+
+
+# --- HIP-HOP / RNB, URBAN, LATIN ---
+
+# Hot 108 JAMZ – US hip-hop
+#EXTINF:-1 tvg-id="" tvg-name="Hot 108 JAMZ" tvg-logo="https://pngimg.com/uploads/radio/radio_PNG19293.png" group-title="USA - HIP-HOP / RNB",Hot 108 JAMZ
+http://cord-cutter.net:8080/Laurie278/5tX1uO7XB7/14663
+
+# 181.FM Hip Hop
+#EXTINF:-1 tvg-id="" tvg-name="181.FM Hip Hop" tvg-logo="https://e7.pngegg.com/pngimages/231/805/png-clipart-beatboxing-disc-jockey-desktop-beatbox-purple-violet-thumbnail.png" group-title="USA - HIP-HOP / RNB",181.FM Hip Hop
+http://cord-cutter.net:8080/Laurie278/5tX1uO7XB7/17523
+
+# 2000 FM - RNB and Hip Hop
+#EXTINF:-1 tvg-id="" tvg-name="2000 FM - RNB and Hip Hop" tvg-logo="https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png" group-title="USA - HIP-HOP / RNB",2000 FM - RNB and Hip Hop
+http://cord-cutter.net:8080/Laurie278/5tX1uO7XB7/17598
+
+# All Underground Hip Hop
+#EXTINF:-1 tvg-id="" tvg-name="All Underground Hip Hop" tvg-logo="https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png" group-title="USA - HIP-HOP / RNB",All Underground Hip Hop
+http://cord-cutter.net:8080/Laurie278/5tX1uO7XB7/17588
+
+# WPAT 93.1 Amor FM – latin pop
+#EXTINF:-1 tvg-id="" tvg-name="WPAT 93.1 Amor FM" tvg-logo="https://pngimg.com/uploads/radio/radio_PNG19293.png" group-title="USA - LATIN / POP",WPAT 93.1 Amor FM
+http://cord-cutter.net:8080/Laurie278/5tX1uO7XB7/14655
+
+# blackbox RnB – francia urban
+#EXTINF:-1 tvg-id="" tvg-name="blackbox RnB" tvg-logo="https://e7.pngegg.com/pngimages/231/805/png-clipart-beatboxing-disc-jockey-desktop-beatbox-purple-violet-thumbnail.png" group-title="Franciaország - RNB / URBAN",blackbox RnB
+http://cord-cutter.net:8080/Laurie278/5tX1uO7XB7/17517
+
+
+# --- ROCK / HARD ROCK / ALTERNATÍV ---
+
+# 2000 FM - Hard Rock
+#EXTINF:-1 tvg-id="" tvg-name="2000 FM - Hard Rock" tvg-logo="https://pngimg.com/uploads/radio/radio_PNG19293.png" group-title="USA - ROCK / HARD ROCK",2000 FM - Hard Rock
+http://cord-cutter.net:8080/Laurie278/5tX1uO7XB7/14656
+
+# Alternative Rock
+#EXTINF:-1 tvg-id="" tvg-name="Alternative Rock" tvg-logo="https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png" group-title="USA - ALTERNATÍV ROCK",Alternative Rock
+http://cord-cutter.net:8080/Laurie278/5tX1uO7XB7/17849
+
+# ACDC 247 – folyamatos AC/DC
+#EXTINF:-1 tvg-id="" tvg-name="ACDC 247" tvg-logo="" group-title="International - ROCK / HARD ROCK",ACDC 247
+http://cord-cutter.net:8080/Laurie278/5tX1uO7XB7/23004
+
+# BeGoodRadio - 80s Rock Mix
+#EXTINF:-1 tvg-id="" tvg-name="BeGoodRadio - 80s Rock Mix" tvg-logo="https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png" group-title="USA - RETRO 80s / ROCK",BeGoodRadio - 80s Rock Mix
+http://cord-cutter.net:8080/Laurie278/5tX1uO7XB7/17836
+
+# Big R Radio – általános pop/rock mix
+#EXTINF:-1 tvg-id="" tvg-name="Big R Radio" tvg-logo="https://e7.pngegg.com/pngimages/231/805/png-clipart-beatboxing-disc-jockey-desktop-beatbox-purple-violet-thumbnail.png" group-title="USA - POP ROCK / SLÁGER",Big R Radio
+http://cord-cutter.net:8080/Laurie278/5tX1uO7XB7/17519
+
+
+# --- RETRO / OLDIES 50s–90s, MOTOWN, LOVE SONGS ---
+
+# 011.FM - Motown live
+#EXTINF:-1 tvg-id="" tvg-name="011.FM - Motown Live" tvg-logo="https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png" group-title="USA - SOUL / MOTOWN / OLDIES",011.FM - Motown Live
+http://cord-cutter.net:8080/Laurie278/5tX1uO7XB7/17846
+
+# 011.FM - Retro 70s
+#EXTINF:-1 tvg-id="" tvg-name="011.FM - Retro 70s" tvg-logo="https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png" group-title="USA - RETRO 70s",011.FM - Retro 70s
+http://cord-cutter.net:8080/Laurie278/5tX1uO7XB7/17858
+
+# 011.FM - Totally 90s
+#EXTINF:-1 tvg-id="" tvg-name="011.FM - Totally 90s" tvg-logo="https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png" group-title="USA - RETRO 90s",011.FM - Totally 90s
+http://cord-cutter.net:8080/Laurie278/5tX1uO7XB7/17826
+
+# 1 HITS 50s live
+#EXTINF:-1 tvg-id="" tvg-name="1 HITS 50s" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/0a/ec/b6/0aecb6be-51b1-88d4-4a7e-e169270de6cf/artwork.jpg/600x600bf.png" group-title="USA - RETRO 50s",1 HITS 50s
+http://cord-cutter.net:8080/Laurie278/5tX1uO7XB7/17872
+
+# 50's Radio (VanDAmm Special)
+#EXTINF:-1 tvg-id="" tvg-name="50's Radio (VanDAmm Special)" tvg-logo="https://image.flaticon.com/icons/png/512/1804/1804801.png" group-title="USA - RETRO 50s",50's Radio (VanDAmm Special)
+http://cord-cutter.net:8080/Laurie278/5tX1uO7XB7/17541
+
+# 57 Chevy Love Songs
+#EXTINF:-1 tvg-id="" tvg-name="57 Chevy Love Songs" tvg-logo="https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png" group-title="USA - OLDIES / LOVE SONGS",57 Chevy Love Songs
+http://cord-cutter.net:8080/Laurie278/5tX1uO7XB7/17838
+
+# A1 Crooners – crooner / swing / jazz
+#EXTINF:-1 tvg-id="" tvg-name="A1 Crooners" tvg-logo="https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png" group-title="USA - JAZZ / CROONERS / OLDIES",A1 Crooners
+http://cord-cutter.net:8080/Laurie278/5tX1uO7XB7/17857
+
+# ABC 50's
+#EXTINF:-1 tvg-id="" tvg-name="ABC 50's" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/0a/ec/b6/0aecb6be-51b1-88d4-4a7e-e169270de6cf/artwork.jpg/600x600bf.png" group-title="USA - RETRO 50s",ABC 50's
+http://cord-cutter.net:8080/Laurie278/5tX1uO7XB7/17873
+
+# ABC 60's
+#EXTINF:-1 tvg-id="" tvg-name="ABC 60's" tvg-logo="https://image.flaticon.com/icons/png/512/1804/1804801.png" group-title="USA - RETRO 60s",ABC 60's
+http://cord-cutter.net:8080/Laurie278/5tX1uO7XB7/17552
+
+# America's Greatest 70s Hits
+#EXTINF:-1 tvg-id="" tvg-name="America's Greatest 70s Hits" tvg-logo="https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png" group-title="USA - RETRO 70s",America's Greatest 70s Hits
+http://cord-cutter.net:8080/Laurie278/5tX1uO7XB7/17575
+
+# BeGoodRadio - 80s New Wave
+#EXTINF:-1 tvg-id="" tvg-name="BeGoodRadio - 80s New Wave" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png" group-title="USA - RETRO 80s / NEW WAVE",BeGoodRadio - 80s New Wave
+http://cord-cutter.net:8080/Laurie278/5tX1uO7XB7/17802
+
+# Billboard Radio - 80s 90s
+#EXTINF:-1 tvg-id="" tvg-name="Billboard Radio - 80s 90s" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/0a/ec/b6/0aecb6be-51b1-88d4-4a7e-e169270de6cf/artwork.jpg/600x600bf.png" group-title="USA - RETRO 80s-90s",Billboard Radio - 80s 90s
+http://cord-cutter.net:8080/Laurie278/5tX1uO7XB7/17876
+
+# Best Hits Radio 80's
+#EXTINF:-1 tvg-id="" tvg-name="Best Hits Radio 80's" tvg-logo="https://image.flaticon.com/icons/png/512/1804/1804801.png" group-title="International - RETRO 80s",Best Hits Radio 80's
+http://cord-cutter.net:8080/Laurie278/5tX1uO7XB7/17539
+
+
+# --- KERESZTÉNY / KARÁCSONYI ---
+
+# 1 Faith FM
+#EXTINF:-1 tvg-id="" tvg-name="1 Faith FM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png" group-title="USA - KERESZTÉNY / GOSPEL",1 Faith FM
+http://cord-cutter.net:8080/Laurie278/5tX1uO7XB7/17785
+
+# 1Faith FM - Christmas Classics
+#EXTINF:-1 tvg-id="" tvg-name="1Faith FM - Christmas Classics" tvg-logo="https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png" group-title="USA - KARÁCSONYI / OLDIES",1Faith FM - Christmas Classics
+http://cord-cutter.net:8080/Laurie278/5tX1uO7XB7/17823
+
+
+# --- POP / SLÁGER / ÁLTALÁNOS ---
+
+# 107.5 Cool FM (nemzetközi pop)
+#EXTINF:-1 tvg-id="" tvg-name="107.5 Cool FM" tvg-logo="https://image.flaticon.com/icons/png/512/1804/1804801.png" group-title="International - POP / SLÁGER",107.5 Cool FM
+http://cord-cutter.net:8080/Laurie278/5tX1uO7XB7/17548
+
+# 91.7 Giant FM – rock/sláger (Kanada/USA)
+#EXTINF:-1 tvg-id="" tvg-name="91.7 Giant FM" tvg-logo="" group-title="Kanada/USA - ROCK / SLÁGER",91.7 Giant FM
+http://cord-cutter.net:8080/Laurie278/5tX1uO7XB7/23003
+
+# Ace Radio – feltételezve Ausztrália
+#EXTINF:-1 tvg-id="" tvg-name="Ace Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png" group-title="Ausztrália - POP / SLÁGER",Ace Radio
+http://cord-cutter.net:8080/Laurie278/5tX1uO7XB7/17783
+
+# Antena 1 FM 94.7 – brazil/portugál pop
+#EXTINF:-1 tvg-id="" tvg-name="Antena 1 FM 94.7" tvg-logo="https://pngimg.com/uploads/radio/radio_PNG19293.png" group-title="Brazília - POP / SLÁGER",Antena 1 FM 94.7
+http://cord-cutter.net:8080/Laurie278/5tX1uO7XB7/14724
+
+# Be Good Radio – általános retró/soft pop
+#EXTINF:-1 tvg-id="" tvg-name="Be Good Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png" group-title="USA - RETRO / SOFT POP",Be Good Radio
+http://cord-cutter.net:8080/Laurie278/5tX1uO7XB7/17798
+
+# BestNet Radio – általános netrádió
+#EXTINF:-1 tvg-id="" tvg-name="BestNet Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png" group-title="USA - POP / SLÁGER",BestNet Radio
+http://cord-cutter.net:8080/Laurie278/5tX1uO7XB7/17789
+
+
+# --- HÍR / TALK / HÍRSZOLGÁLAT ---
+
+# Alex Jones - Infowars.com
+#EXTINF:-1 tvg-id="" tvg-name="Alex Jones - Infowars.com" tvg-logo="https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png" group-title="USA - HÍR / TALK",Alex Jones - Infowars.com
+http://cord-cutter.net:8080/Laurie278/5tX1uO7XB7/17579
+
+# Associated Press Radio live
+#EXTINF:-1 tvg-id="" tvg-name="Associated Press Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png" group-title="USA - HÍR / TALK",Associated Press Radio
+http://cord-cutter.net:8080/Laurie278/5tX1uO7XB7/17800
+
+# BBC World Service English (UK Schedule)
+#EXTINF:-1 tvg-id="" tvg-name="BBC World Service English" tvg-logo="https://seekvectorlogo.net/wp-content/uploads/2018/07/bbc-radio-1-vector-logo.png" group-title="UK - HÍR / TALK / WORLD SERVICE",BBC World Service English
+http://cord-cutter.net:8080/Laurie278/5tX1uO7XB7/14387
+
+
+# --- TRANCE / DNB / BREAKBEAT ---
+
+# Amsterdam Trance
+#EXTINF:-1 tvg-id="" tvg-name="Amsterdam Trance" tvg-logo="https://pngimg.com/uploads/radio/radio_PNG19293.png" group-title="Hollandia - TRANCE",Amsterdam Trance
+http://cord-cutter.net:8080/Laurie278/5tX1uO7XB7/14721
+
+# arty Vibe: Drum & Bass / Jungle / Breakbeat
+#EXTINF:-1 tvg-id="" tvg-name="arty Vibe: Drum & Bass / Jungle / Breakbeat" tvg-logo="https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png" group-title="UK / EU - DRUM & BASS / BREAKBEAT",arty Vibe: Drum & Bass, Jungle & Breakbeat
+http://cord-cutter.net:8080/Laurie278/5tX1uO7XB7/17855
+
+
+# --- BLUES ---
+
+# BluesMen Channel
+#EXTINF:-1 tvg-id="" tvg-name="BluesMen Channel" tvg-logo="https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png" group-title="International - BLUES",BluesMen Channel
+http://cord-cutter.net:8080/Laurie278/5tX1uO7XB7/17853
+
 #EXTINF:-1 group-title="Ausztria Rádiók",Ö3 Hitradio
 #EXTGRP:Ausztria Rádiók
 https://orf-live.ors-shoutcast.at/oe3-q2a
