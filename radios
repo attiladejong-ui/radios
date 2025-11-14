@@ -152,13 +152,6 @@ https://media-ice.musicradio.com/SmoothUKMP3
 #EXTGRP:Anglia Rádiók
 https://media-ice.musicradio.com/Heart80sMP3
 
-#EXTINF:-1 group-title="Anglia Rádiók",Absolute 80s Uk
-#EXTGRP:Anglia Rádiók
-https://edge-bauerall-03-gos2.sharp-stream.com/absolute80s.aac?aw_0_1st.skey=1753480568&amp;aw_0_1st.playerid=BMUK_RPi
-
-#EXTINF:-1 group-title="Anglia Rádiók",Geatest Hits  Radio
-#EXTGRP:Anglia Rádiók
-https://edge-bauerall-03-gos2.sharp-stream.com/net2aylesbury.aac?aw_0_1st.skey=1753482452&amp;aw_0_1st.playerid=BMUK_RPi
 
 #EXTINF:-1 group-title="Anglia Rádiók",Capital FM
 #EXTGRP:Anglia Rádiók
@@ -176,9 +169,6 @@ https://as-hls-ww.live.cf.md.bbci.co.uk/pool_89021708/live/ww/bbc_radio_five_liv
 #EXTGRP:Anglia Rádiók
 https://as-hls-ww.live.cf.md.bbci.co.uk/pool_01505109/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1 group-title="Anglia Rádiók",Absolute 90s
-#EXTGRP:Anglia Rádiók
-https://edge-bauerall-03-gos2.sharp-stream.com/absolute90s.aac?aw_0_1st.skey=1753480617&amp;aw_0_1st.playerid=BMUK_RPi
 
 #EXTINF:-1 group-title="Anglia Rádiók",Virgin Radio
 #EXTGRP:Anglia Rádiók
@@ -188,21 +178,12 @@ https://radio.virginradio.co.uk/stream
 #EXTGRP:Anglia Rádiók
 https://media-ice.musicradio.com/ClassicFMMP3
 
-#EXTINF:-1 group-title="Anglia Rádiók",Absolute Classic Rock
-#EXTGRP:Anglia Rádiók
-https://edge-bauerall-03-gos2.sharp-stream.com/absoluteclassicrock.aac?aw_0_1st.skey=1753479806&amp;aw_0_1st.playerid=BMUK_RPi
-
-#EXTINF:-1 group-title="Anglia Rádiók",Absolute 70s
-#EXTGRP:Anglia Rádiók
-https://edge-bauerall-03-gos2.sharp-stream.com/absolute70s.aac?aw_0_1st.skey=1753479984&amp;aw_0_1st.playerid=BMUK_RPi
 
 #EXTINF:-1 group-title="Anglia Rádiók",Hits Radio London
 #EXTGRP:Anglia Rádiók
 https://edge-bauerall-03-gos2.sharp-stream.com/net1london.aac?aw_0_1st.skey=1753485485&amp;aw_0_1st.playerid=BMUK_RPi
 
-#EXTINF:-1 group-title="Anglia Rádiók",Absolute Radio
-#EXTGRP:Anglia Rádiók
-https://edge-bauerall-03-gos2.sharp-stream.com/absoluteradio.aac?aw_0_1st.skey=1753479701&amp;aw_0_1st.playerid=BMUK_RPi
+
 
 #EXTINF:-1 group-title="Anglia Rádiók",Radio Caroline
 #EXTGRP:Anglia Rádiók
@@ -212,9 +193,6 @@ https://stream.radiocaroline.net/rc128/;
 #EXTGRP:Anglia Rádiók
 https://as-hls-ww.live.cf.md.bbci.co.uk/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1 group-title="Anglia Rádiók",BBc Radio 6 MUSIC
-#EXTGRP:Anglia Rádiók
-https://as-hls-ww.live.cf.md.bbci.co.uk/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio=96000-274026147.ts
 
 #EXTINF:-1 group-title="Anglia Rádiók",Talksport
 #EXTGRP:Anglia Rádiók
