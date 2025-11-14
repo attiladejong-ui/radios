@@ -91,9 +91,6 @@ https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/7f5c4019-5
 #EXTGRP:Nemzetközi Rádiók
 https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/82f53b7b-ca5e-3494-9844-c2faca0e2ad7/1790800/manifest.m3u8
 
-#EXTINF:-1 group-title="Nemzetközi Rádiók",Best Hits  80s
-#EXTGRP:Nemzetközi Rádiók
-http://xxip25.top:8080/xaF18Y/317236/17539
 
 #EXTINF:-1 group-title="Nemzetközi Rádiók",Retro 70s
 #EXTGRP:Nemzetközi Rádiók
@@ -119,21 +116,7 @@ http://xxip25.top:8080/xaF18Y/317236/17872
 #EXTGRP:Nemzetközi Rádiók
 http://xxip25.top:8080/xaF18Y/317236/17842
 
-#EXTINF:-1 group-title="Nemzetközi Rádiók",IHEART COUNTRY RADIO
-#EXTGRP:Nemzetközi Rádiók
-https://dbrb49pjoymg4.cloudfront.net/10001/9995102/hls/playlist.m3u8?ads.xumo_channelId=9995102
 
-#EXTINF:-1 group-title="Nemzetközi Rádiók",IHEART  HIP HOP BEATS
-#EXTGRP:Nemzetközi Rádiók
-https://dbrb49pjoymg4.cloudfront.net/10001/9995103/hls/playlist.m3u8?ads.xumo_channelId=9995103
-
-#EXTINF:-1 group-title="Nemzetközi Rádiók",IHEART 90s
-#EXTGRP:Nemzetközi Rádiók
-https://dbrb49pjoymg4.cloudfront.net/10001/9995100/hls/playlist.m3u8?ads.xumo_channelId=9995100
-
-#EXTINF:-1 group-title="Nemzetközi Rádiók",IHEART ALTERNATIVE
-#EXTGRP:Nemzetközi Rádiók
-https://dbrb49pjoymg4.cloudfront.net/10001/9995100/hls/playlist.m3u8?ads.xumo_channelId=9995101
 
 #EXTINF:-1 group-title="Nemzetközi Rádiók",Radio  192
 #EXTGRP:Nemzetközi Rádiók
